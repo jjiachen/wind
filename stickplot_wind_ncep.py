@@ -93,4 +93,4 @@ elif option=='all year':
 #v=np.load('vwind_stress201411_1_30.npy')
 stick_plot(datearray,u,v,color='green')
 plt.xticks(rotation=10)
-plt.savefig('stickplot20141',dpi=100)
+plt.savefig('stickplot'+str(year),dpi=100)
