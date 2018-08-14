@@ -3,6 +3,8 @@
 Created on Fri Dec  8 15:07:52 2017
 
 @author: huimin
+needed input file :vwnd.sig995.'+str(year)+'.nc'
+find in this links:ftp://ftp.cdc.noaa.gov/Datasets/ncep.reanalysis/surface/
 """
 import numpy as np
 from datetime import datetime as dt
