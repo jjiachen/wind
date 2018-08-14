@@ -1,7 +1,11 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Dec 11 15:11:02 2017
-
+To run rhis program,you need these following inputfile:
+'wind_time_v.npy'
+'wind_u.npy'
+'wind_v.npy'
+you can find in the 'wind'
 @author: hxu
 """
 import numpy as np
